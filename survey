@@ -1,4 +1,5 @@
 <html>
+<title>test1</title>
 <style type='text/css'>
 	.embeddedServiceHelpButton .helpButton .uiButton {
 		background-color: #005290;
@@ -38,7 +39,7 @@
 			'https://cxddev-thomsonreuterss2elatam.cs67.force.com',
 			gslbBaseURL,
 			'00D0n0000009OWW',
-			'DCP_Trials_Checkpoint',
+			'DCP_Checkpoint',
 			{
 				baseLiveAgentContentURL: 'https://c.la1-c1cs-ord.salesforceliveagent.com/content',
 				deploymentId: '5720n0000004D3q',
